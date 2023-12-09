@@ -1,0 +1,1 @@
+extern int printstr(const char*);
